@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![](./Screenshot 2025-09-28 at 15-04-28 Frontend Mentor Blog preview card.png)
+![](./screenshot -Blog-preview-card.png)
 
 
 ### Links
