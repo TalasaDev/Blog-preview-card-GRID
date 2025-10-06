@@ -30,7 +30,9 @@ body {
     border: 1px solid black;
     max-width: 375px;
     margin: 100px auto auto auto;
-    height: 70vh;   
+    /*height: 70vh;*/
+    max-width: 18rem;
+    max-height: 60vh;
     display: grid;
     grid-template-rows: auto auto auto auto;
     border-radius: 20px;
