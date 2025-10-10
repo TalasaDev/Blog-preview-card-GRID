@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot -Blog-preview-card.png)
+![](./screenshot-Blog-preview-card.png)
 
 
 ### Links
